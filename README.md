@@ -1,13 +1,15 @@
 # Python-Snake-Game
 A snake game written in Python using the Turtle module first project.
 
-# Requirements the application
+# Installing & Running the application (Written using PyCharm)
 
 Download the Python 3 installer package from the official website and install it, if not installed previously.
 
 Download the source code from the repository and run the file just as any other Python script (.py) file.
 
-# Installing & Running the application (Written using PyCharm)
+# enjoy this simple game!
+
+Use the arrow keys to move the snake around, consume the red dots to keep growing, and avoid hitting the snake’s tail.
 
 Active game screen
 
