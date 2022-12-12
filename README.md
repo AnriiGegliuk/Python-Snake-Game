@@ -7,7 +7,7 @@ Download the Python 3 installer package from the official website and install it
 
 Download the source code from the repository and run the file just as any other Python script (.py) file.
 
-# enjoy this simple game!
+# Enjoy this simple game!
 
 Use the arrow keys to move the snake around, consume the red dots to keep growing, and avoid hitting the snake’s tail.
 
