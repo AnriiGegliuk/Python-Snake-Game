@@ -1,0 +1,9 @@
+# Python-Snake-Game
+A snake game written in Python using the Turtle module.
+
+# Installing
+Download the Python 3 installer package from the official website and install it, if not installed previously.
+
+Run the following in the terminal to install the Pygame library
+
+pip3 install pygame
