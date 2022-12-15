@@ -11,6 +11,10 @@ Download the source code from the repository and run the file just as any other 
 
 Use the arrow keys to move the snake around, consume the red dots to keep growing, and avoid hitting the snake’s tail.
 
+# Replit: 
+
+Please try this project on Replit: https://replit.com/@AndriiGegliuk/Snake-Game?v=1
+
 Active game screen
 
 ![image](https://user-images.githubusercontent.com/120349975/206982833-c4217228-107e-41ea-886f-56f0f534c0e3.png)
